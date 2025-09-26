@@ -1,5 +1,5 @@
 # 99-lisp-problems
-99 common lisp problems inspired by the prolog list
+99 common lisp problems inspired by the prolog list.
 Instructions for the Prolog problem set are as below:
 
 ------------------------------------------------------
