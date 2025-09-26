@@ -23,5 +23,6 @@ https://www.ic.unicamp.br/~meidanis/courses/mc336/2009s2/prolog/problemas/
 
 ### In case the links get taken down sometime in the future
 [L-99_.Ninety-Nine.Lisp.Problems.pdf](https://github.com/user-attachments/files/22567741/L-99_.Ninety-Nine.Lisp.Problems.pdf)
+
 [P-99: Ninety-Nine Prolog Problems.pdf](https://github.com/user-attachments/files/22568856/P-99.Ninety-Nine.Prolog.Problems.pdf)
 
